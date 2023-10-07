@@ -1,10 +1,10 @@
 print("Make array and search its elements")
 
-#this function for returning index value or -1 to make sure value not found
+#this function for returning index value or -1 to make sure value not found...
 
 def main(array , index):
     length = len(array)
-    
+
     for a in range(length):
         if(array[a] == index):
            return a
