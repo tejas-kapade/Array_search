@@ -1,7 +1,7 @@
 print("Make array and search its elements")
 
-#this function for returning index value or -1 to make sure value not found...
-#HELLOW
+#this function for returning index value or -1 to make sure value not found
+#i used VS code to push changes...
 
 def main(array , index):
     length = len(array)
